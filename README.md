@@ -4,7 +4,7 @@ AI Race requires the player to race against an AI to a fixed exit. Normal mode i
 enemies will be chasing you. 
 
 How to run:
-Run the file tp.py. This project uses cmu-112-graphics, which is included in the zip file. tp.py and the graphics file must be in the same folder in order to run.
+Run the file tp.py. This project uses cmu-112-graphics. tp.py and the graphics file must be in the same folder in order to run.
 
 Libraries/Modules:
 See 'How to run'
