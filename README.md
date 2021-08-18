@@ -11,3 +11,5 @@ See 'How to run'
 
 Shortcuts:
 No shortcuts, but 'p' can be pressed to pause the game at any time.
+
+A demo video of the game can be found here: https://youtu.be/ejvSpIRt1kw
